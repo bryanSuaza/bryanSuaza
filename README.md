@@ -2,7 +2,7 @@
 
 ### Un gusto en presentarme 👋
 ```
-Ingeniero de sistema con 6 años de experiencia en programación web.
+Ingeniero de sistemas con 6 años de experiencia en programación web.
 ```
 
 Te quiero contar un poco sobre mi:
