@@ -7,7 +7,7 @@ Ingeniero de sistemas con 6 años de experiencia en programación web.
 
 Te quiero contar un poco sobre mi:
 
-📚Inicié en el mundo del desarrollo web en el año 2018 tratando de crear un sitio web para la reserva de canchas sintéticas de futbol luego tuve la oportunidad de iniciar en el mundo laboral en la empresa Sistemas informáticos y soluciones integrales (SI&SI), logre adquirir gran experiencia con bases de datos mysql
+📚Inicié en el mundo del desarrollo web en el año 2018 tratando de crear un sitio web sitio web personal, luego tuve la oportunidad de iniciar en el mundo laboral en la empresa Sistemas informáticos y soluciones integrales (SI&SI), logre adquirir gran experiencia con bases de datos mysql
 y lenguajes de programación como JavaScript y Php. 
 
 Laboré durante dos años allí para luego iniciar como freelancer con un proyecto web basado en chats y streming en el cual obtuve conocimientos en JavaScript, Node.js, Websockets y manejo de instancias con AWS. 
