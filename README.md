@@ -1,6 +1,9 @@
-## Hola soy bryan !, un gusto en presentarme 👋
+## Hola soy Bryan Suaza Gil ! 
 
-**Ingeniero de sistema con 6 años de experiencia en programación web.
+### Un gusto en presentarme 👋
+```
+Ingeniero de sistema con 6 años de experiencia en programación web.
+```
 
 Te quiero contar un poco sobre mi:
 
